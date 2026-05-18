@@ -70,8 +70,8 @@
 #include <ostream>
 #include <string>
 #include <type_traits>
-#include <vector>
 #include <utility>
+#include <vector>
 
 using namespace std;
 using namespace o2;
